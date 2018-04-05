@@ -9,7 +9,7 @@ JOptionPane.showMessageDialog(null,"Mike like fish");
 		}
 
 		if (answer.equals("Grace")) {
-JOptionPane.showMessageDialog(null,"This guy enjoy Salmoon crazy.");
+JOptionPane.showMessageDialog(null,"This guy enjoy Salmon crazy.");
 		}
 		if (answer.equals("William")) {
 JOptionPane.showMessageDialog(null,"I don't know this guy much.");
